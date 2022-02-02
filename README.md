@@ -1,3 +1,3 @@
-# Taller 0 Juan Bernal Gil
+# Taller 0 Juan Andrés Bernal Gil Bernal Gil
 
-Entrega taller 0 Juan Andrés Bernal Gil DPOO Sección 
+Entrega taller 0 Juan Andrés Bernal Gil DPOO 
